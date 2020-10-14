@@ -1,3 +1,7 @@
+<br>
+Username : arifisal<br>
+Password : isal2018<br><br>
+
 pkg install python2<br>
 pkg install git<br>
 git clone https://github.com/cybergebang/tuyek<br>
