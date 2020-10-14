@@ -108,7 +108,7 @@ def lisensi():
 	username = raw_input("[*] Username : ")
 	passw = raw_input("[*] Password : ")
 	r = requests.get("https://reddemons.000webhostapp.com/pa.txt").text
-	if passw =="":
+	if username =="arifisal" and password =="isal2018
 		print"\033[1;91m[!] Wrong"
 		keluar()
 	elif len(passw) < 10:
